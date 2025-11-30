@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou **Murilo Leal**
 
-### 💻 Desenvolvedor Full Stack
+### 💻 Desenvolvedor 
 
 ## 🚀 Sobre mim
 - 🔭 Atuando nos projetos do **Cientista Arretado – Ouvidoria/PE** e no **PIBID – CAPES**
-- 🧠 Estudando **aplicações de Inteligência Artificial**, React e Python
-- 🐧 Usuário de **Linux (Fedora)** e defensor de software livre
-- 👨‍🏫 Interesse em ensino, pesquisa, Pensamento Computacional e Educação Midiática
+- 🧠 Atualmente usando bastante **React e Python**
+- 🐧 Usuário de **Linux (Fedora)** e entusiasta do software livre
+- 👨‍🏫 Interesse em ensino e pesquisa (IA, Desenvolvimento e Educação)
 - 🤝 Aberto a colaborar em **projetos open source**
-- 📚 Objetivo de seguir carreira acadêmica (mestrado e doutorado)
+- 📚 Objetivo de seguir carreira acadêmica (mestrado e doutorado) 
 - 📫 Contato: **murilormleal@gmail.com**
 
 ---
