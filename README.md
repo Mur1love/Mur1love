@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou **Murilo Leal**
 
-<!--
-**Mur1love/Mur1love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🔭 Atuando nos projetos do **Cientista Arretado – Ouvidoria/PE** e no **PIBID – CAPES**
+- 🧠 Estudando **aplicações de Inteligência Artificial**, React e Python
+- 🐧 Usuário de **Linux (Fedora)** e defensor de software livre
+- 👨‍🏫 Interesse em ensino, pesquisa, Pensamento Computacional e Educação Midiática
+- 🤝 Aberto a colaborar em **projetos open source**
+- 📚 Objetivo de seguir carreira acadêmica (mestrado e doutorado)
+- 📫 Contato: **murilormleal@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,py,html,css,js,react,bootstrap,flutter,dart,mysql,postgres,sqlite,firebase,linux,docker,git,github,figma,postman,opencv,arduino" height="40"/>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+<p align="left">
+<a href="https://github.com/Mur1love" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muril0-leal/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
+</p>
