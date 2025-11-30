@@ -15,8 +15,9 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,py,html,css,js,react,bootstrap,flutter,dart,mysql,postgres,sqlite,firebase,linux,docker,git,github,figma,postman,opencv,arduino" height="40"/>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,py,html,css,js,react,bootstrap,flutter,dart,mysql,postgres,sqlite,firebase,linux,docker,git,github,figma,postman,opencv,arduino" height="50"/>
 </p>
+
 
 ---
 
